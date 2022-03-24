@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/around-the-globe/static/css/main.774a3913.css",
+    "main.js": "/around-the-globe/static/js/main.3f1ef97c.js",
+    "static/media/spinner.gif": "/around-the-globe/static/media/spinner.d63fb2ab61dc9ef2b93d.gif",
+    "static/media/world-globe.png": "/around-the-globe/static/media/world-globe.902ec55cd56d8477d392.png",
+    "index.html": "/around-the-globe/index.html",
+    "main.774a3913.css.map": "/around-the-globe/static/css/main.774a3913.css.map",
+    "main.3f1ef97c.js.map": "/around-the-globe/static/js/main.3f1ef97c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.774a3913.css",
+    "static/js/main.3f1ef97c.js"
+  ]
+}
