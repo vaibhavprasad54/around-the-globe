@@ -1,0 +1,23 @@
+.readMoreBtn{
+    background-color: #129f3d;
+    position: absolute;
+    top: 24rem;
+    font-size: 15px;
+    color: white;
+}
+
+.card-body{
+   background-color: #ebfbf3;
+}
+
+.source{
+    left: 90%;
+    z-index: 1;
+}
+
+.sourceDiv{
+    display: flex;
+    justify-content: flex-end;
+    position: absolute;
+    right: 0;
+}

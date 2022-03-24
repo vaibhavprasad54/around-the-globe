@@ -1,0 +1,15 @@
+.nav{
+    position: sticky;
+    top: 0;
+    z-index: 999;
+}
+
+.navbar-dark .navbar-brand{
+    color: #3ede6f;
+}
+
+.navBrand{
+    width: 2rem;
+    margin-right: 10px;
+}
+
